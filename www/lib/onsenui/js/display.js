@@ -18,6 +18,6 @@ function OnButtonClick(btn) {
         }else if(btn == 8){
             document.location.assign("common.html")
         }else{
-            document.location.assign("map.html")
+            document.location.assign("html/map.html")
         }
     }
