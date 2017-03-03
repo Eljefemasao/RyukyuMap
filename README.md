@@ -12,6 +12,8 @@ main_menu一旦作成
     <li>今日、若者のインターネット利用率は極めて高く、AndroidやIOSにも汎用性のあるwebサイトを作成し、そういった人に素早く、正確な情報提供ができればいい</li>
   </ul>
   
+<p>WWW/html/main.html</p>
+
 </body>
 
 </html>
