@@ -7,8 +7,8 @@ main_menu一旦作成
 </h1>
 <p>map_function</p>
 <ul>
-    <li>To Search classroom location which you want to know</li> 
-    <li>To get information student need</li>
+    <li>To search classroom location which you want to know</li> 
+    <li>To get information students need</li>
 </ul>
   
 <h2></h2>
