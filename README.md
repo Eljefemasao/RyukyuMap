@@ -3,7 +3,7 @@
 <html>
 <body>
 <h1>
-main_menu一旦作成
+main_menu_still
 </h1>
 <p>map_function</p>
 <ul>
