@@ -3,9 +3,9 @@
 <html>
 <body>
 <h1>
-main_menu_still
+function
 </h1>
-<p>map_function</p>
+
 <ul>
     <li>To search classroom location which you want to know</li> 
     <li>To get information students need</li>
